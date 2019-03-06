@@ -3,6 +3,8 @@ Gareth Marriott (V00875748)
 Roxanne Dewing (V00853942)
 ###
 
+Compleated at the University of Victoria
+
 Instructions (bash shell):
 
 1. have access to python 3 maped to the "python" command in the shell
